@@ -24,6 +24,7 @@ public class ArtemisTeleOp extends OpMode {
     /**
      * The hardware map initialization object which initializes all our motors and servos
      **/
+    // this is just a test (2/9/22 by Rishit)
     ArtemisHardwareMap hardwareMapInitialize = new ArtemisHardwareMap();
 
     /**
